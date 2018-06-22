@@ -1,3 +1,7 @@
 ## Technical Questions
 
-https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms
+[Algorithm Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
+
+## Need Review
+
+[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)

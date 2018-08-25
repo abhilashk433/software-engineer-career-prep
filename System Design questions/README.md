@@ -2,7 +2,7 @@
 
 ## Steps
 
-1. Clarify Problem
+1. Clarify Questions
 2. Limit the scopt: Start with 2-3 core features
 3. Native Solution
 4. Optimized Solution

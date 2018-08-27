@@ -76,6 +76,8 @@ When someone who works for me or with me lies to me without a reason. I understa
 
 ## Tell me about a time you had a disagreement with your manager.
 
+I once disagreed with my manager over how to best help a customer. Rather than question his authority in front of everyone, I talked to him off of the floor. I was open and honest about the problems I had with the way he wanted to do things. It turned out that there was just a simple misunderstanding. That disagreement we had showed me the importance of communicating with my coworkers to make sure that something obsolete doesn’t become a bigger problem than it needs to be.
+
 ## Talk about a project you are most passionate about, or one where you did your best work.
 
 ## What does your best day of work look like?

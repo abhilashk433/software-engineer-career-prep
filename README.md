@@ -1,8 +1,8 @@
 <h1 align="center">Microverse Career Prep</h1>
 
-1. [Technical Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Behavioral%20Questions)
+1. [Technical Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Technical%20Questions)
 2. [System Design Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/System%20Design%20questions)
-3. [Behavioral Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Technical%20Questions)
+3. [Behavioral Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Behavioral%20Questions)
 
 ## Contributing
 

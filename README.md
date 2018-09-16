@@ -4,6 +4,10 @@
 2. [System Design Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/System%20Design%20questions)
 3. [Behavioral Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Behavioral%20Questions)
 
+## Other Links
+
+- [30 seconds of interviews](https://30secondsofinterviews.org/)
+
 ## Contributing
 
 We welcome all contributions. You can submit any ideas as [pull requests](https://github.com/LIYINGZHEN/microverse-career-prep/pulls) or as [GitHub issues](https://github.com/LIYINGZHEN/microverse-career-prep/issues). Have a good time! :)

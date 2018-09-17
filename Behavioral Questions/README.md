@@ -20,7 +20,7 @@ What You’d Do Differently
 
 ### 1. What are your weaknesses?
 
-Sometimes, I will take action quickly and I don't have a very good attention to detail. While that's good because it lets me execute quickly, it also means that I sometimes make careless mistakes. Because of that, I make sure to always have someone else double check my work.
+A. Sometimes, I will take action quickly and I don't have a very good attention to detail. While that's good because it lets me execute quickly, it also means that I sometimes make careless mistakes. Because of that, I make sure to always have someone else double check my work.
 
 ### 2. Tell me about yourself
 

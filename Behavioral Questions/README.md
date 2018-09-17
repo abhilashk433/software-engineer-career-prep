@@ -51,7 +51,11 @@ Once, a co-worker and I disagreed on the way an unsatisfied customer was dealt w
 
 ### 8. What project are you currently working on?
 
+Right now I'm working on an Airbnb clone project which built with TypeScript, React.js, and GraphQL.
+
 ### 9. What is the most challenging aspect of your current project?
+
+The most challenging aspect is that I'm trying new things to build my Airbnb project. Like I use yarn workspace, Formik package, and sharing controllers between web and react-native app.
 
 ### 10. What was the most difficult bug that you fixed in the past 6 months?
 

@@ -1,4 +1,4 @@
-<h1 align="center">Microverse Career Prep</h1>
+<h1 align="center">Remote Developer Career Prep</h1>
 
 ## Online presence
 

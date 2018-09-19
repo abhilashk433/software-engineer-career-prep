@@ -11,6 +11,10 @@
 3. [Behavioral Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Behavioral%20Questions)
 4. [Questions To Ask](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Questions%20to%20ask)
 
+## Finding a job
+
+1. [Remote job websites](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Remote%20jobs)
+
 ## Other Links
 
 - [30 seconds of interviews](https://30secondsofinterviews.org/)

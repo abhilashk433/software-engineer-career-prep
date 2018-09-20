@@ -3,7 +3,7 @@
  * @param {number} b
  * @return {number}
  */
-const getSum = (a, b) => {
+var getSum = (a, b) => {
   if (b == 0) {
     return a;
   }

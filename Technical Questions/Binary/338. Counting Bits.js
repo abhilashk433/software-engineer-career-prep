@@ -10,7 +10,7 @@
 //  11
 // 100
 // 101
-const countBits = num => {
+var countBits = num => {
   const counts = [0];
   for (let i = 0; i < num + 1; i++) {
     counts[i] = counts[i >> 1] + (i & 1);

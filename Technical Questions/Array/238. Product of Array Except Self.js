@@ -2,20 +2,28 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-// O(n)
 var productExceptSelf = function(nums) {
-  const leftProduct = [];
-  const rightProduct = [];
+  // Input:  [1,2,3,4]
 
-  nums.reduce((product, curr, i) => {
-    leftProduct[i] = product;
-    return product * curr;
-  }, 1);
+  // [1, 1, 2, 6]
+  var leftProduct = nums.reduce((acc, _, i) => {
+    if (i === 0) {
+      acc[0] = 1;
+    } else {
+      acc[i] = acc[i - 1] * nums[i - 1];
+    }
+    return acc;
+  }, []);
 
-  nums.reduceRight((product, curr, i) => {
-    rightProduct[i] = product;
-    return product * curr;
-  }, 1);
+  // [24,12,4,1]
+  var rightProduct = nums.reduceRight((acc, _, i) => {
+    if (i === nums.length - 1) {
+      acc[nums.length - 1] = 1;
+    } else {
+      acc[i] = acc[i + 1] * nums[i + 1];
+    }
+    return acc;
+  }, []);
 
-  return leftProduct.map((value, i) => value * rightProduct[i]);
+  return leftProduct.map((curr, i) => curr * rightProduct[i]);
 };

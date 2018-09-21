@@ -11,11 +11,10 @@
  * @return {boolean}
  */
 var hasCycle = function(head) {
+  const visits = [];
   while (head) {
-    if (head.val == null) {
-      return true;
-    }
-    head.val = null;
+    if (visits.includes(head)) return true;
+    visits.push(head);
     head = head.next;
   }
   return false;

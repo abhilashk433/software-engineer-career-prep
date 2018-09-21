@@ -1,3 +1,10 @@
+## Job Criteria
+
+[]1. Allows you to learn and grow
+[]2. Allows you to grow remotely (this will open a lot of doors to higher salaries later)
+[]3. Allows you to work in English
+[]4. Pays more than $1800/month. I think you should aim for $2000-$2,200 at least then.
+
 ## Remote Job Websites
 
 1. https://remoteok.io/

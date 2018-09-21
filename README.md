@@ -7,9 +7,11 @@
 ## Job Interviews
 
 1. [Technical Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Technical%20Questions)
-2. [System Design Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/System%20Design%20questions)
+2. [System Design Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/System%20Design%20Questions)
 3. [Behavioral Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Behavioral%20Questions)
 4. [Questions To Ask](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Questions%20to%20ask)
+5. [Negotiation Tips](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Negotiation%20Tips)
+6. [Common Questions](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Common%20Questions)
 
 ## Finding a job
 

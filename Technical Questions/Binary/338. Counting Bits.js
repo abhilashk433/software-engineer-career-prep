@@ -2,18 +2,18 @@
  * @param {number} num
  * @return {number[]}
  */
-
-// if num = 5
-//   0
-//   1
-//  10
-//  11
-// 100
-// 101
-var countBits = num => {
-  const counts = [0];
-  for (let i = 0; i < num + 1; i++) {
-    counts[i] = counts[i >> 1] + (i & 1);
+var countBits = function(num) {
+  const result = [0];
+  // result = [0]
+  // 0  000
+  // 1  001 -> (000) 0 + 1 -> [0, 1]
+  // 2  010 -> (001) 1 + 0 => [0, 1, 1]
+  // 3  011 -> (001) 1 + 1 => [0, 1, 1, 2]
+  // 4  100
+  // 5  101
+  for (let i = 1; i <= num; i++) {
+    result[i] = result[i >> 1] + (i & 1);
   }
-  return counts;
+
+  return result;
 };

@@ -21,6 +21,8 @@
 - [CodeSpaghetti](http://www.codespaghetti.com/)
 - [Laioffer](https://www.laioffer.com)
 - [A++ Coding Bootcamp](https://aonecode.com/)
+- [Microverse](https://www.microverse.org/)
+- [LambdaSchool](https://lambdaschool.com/)
 
 ## Contributing
 

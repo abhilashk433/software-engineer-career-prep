@@ -19,6 +19,8 @@
 
 - [30 seconds of interviews](https://30secondsofinterviews.org/)
 - [CodeSpaghetti](http://www.codespaghetti.com/)
+- [Laioffer](https://www.laioffer.com)
+- [A++ Coding Bootcamp](https://aonecode.com/)
 
 ## Contributing
 

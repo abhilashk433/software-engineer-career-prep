@@ -21,9 +21,3 @@ var missingNumber = nums => {
   }
   return missing;
 };
-
-var missingNumber = nums => {
-  const expected = ((1 + nums.length) * nums.length) / 2;
-  const actual = nums.reduce((acc, curr) => acc + curr, 0);
-  return expected - actual;
-};

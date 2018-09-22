@@ -2,22 +2,19 @@
  * @param {number[]} nums
  * @return {number}
  */
-// O(n)
-var maxSubArray = function(nums) {
-  let largest = nums[0];
-  let sum = nums[0];
+
+// [-2, 4, -1, 3, -6]
+const maxProduct = nums => {
+  let max = nums[0];
+  let currentMin = nums[0];
+  let currentMax = nums[0];
 
   for (let i = 1; i < nums.length; i++) {
-    const currentNum = nums[i]
-    
-    if (sum + currentNum > currentNum) {
-      sum = sum + currentNum
-    } else {
-      sum = currentNum
-    }
-    
-    largest = Math.max(largest, sum)
+    const tempMin = currentMin;
+    currentMin = Math.min(nums[i], tempMin * nums[i], currentMax * nums[i]);
+    currentMax = Math.max(nums[i], tempMin * nums[i], currentMax * nums[i]);
+    max = Math.max(max, currentMax);
   }
 
-  return largest
+  return max;
 };

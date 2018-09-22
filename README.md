@@ -1,4 +1,4 @@
-<h1 align="center">Remote Developer Career Prep</h1>
+<h1 align="center">Software Engineer Career Prep</h1>
 
 ## Online Presence
 
@@ -16,7 +16,7 @@
 ## Finding a Job
 
 1. [Remote Job Websites](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Remote%20jobs)
-2. [Finding a Job](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Finding%20a%20Job)
+2. [Your Dream Job](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Your%20Dream%20Job)
 
 ## Other Links
 

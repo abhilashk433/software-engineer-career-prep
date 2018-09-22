@@ -19,12 +19,14 @@
 
 ## Other Links
 
-- [30 seconds of interviews](https://30secondsofinterviews.org/)
-- [CodeSpaghetti](http://www.codespaghetti.com/)
+- [30 seconds of interviews](https://30secondsofinterviews.org)
+- [CodeSpaghetti](http://www.codespaghetti.com)
 - [Laioffer](https://www.laioffer.com)
-- [A++ Coding Bootcamp](https://aonecode.com/)
-- [Microverse](https://www.microverse.org/)
-- [LambdaSchool](https://lambdaschool.com/)
+- [A++ Coding Bootcamp](https://aonecode.com)
+- [Microverse](https://www.microverse.org)
+- [LambdaSchool](https://lambdaschool.com)
+- [Coursera](https://www.coursera.org/degrees/mcit-penn)
+- [Kao Man Fen](http://www.kmf.com)
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 <h1 align="center">Remote Developer Career Prep</h1>
 
-## Online presence
+## Online Presence
 
 1. [Resume](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Resume)
 
@@ -13,9 +13,10 @@
 5. [Negotiation Tips](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Negotiation%20Tips)
 6. [Common Questions](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Common%20Questions)
 
-## Finding a job
+## Finding a Job
 
-1. [Remote job websites](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Remote%20jobs)
+1. [Remote Job Websites](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Remote%20jobs)
+2. [Finding a Job](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Finding%20a%20Job)
 
 ## Other Links
 

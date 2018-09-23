@@ -45,3 +45,7 @@
 - [x] 69. Sqrt(x)
 - [x] 258. Add Digits
 - [x] 367. Valid Perfect Square
+
+### Matrix
+
+- [x] 48. Rotate Image

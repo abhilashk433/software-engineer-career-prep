@@ -7,7 +7,6 @@
 - [x] 1. Two Sum
 - [x] 11. Container With Most Water
 - [x] 33. Search in Rotated Sorted Array
-- [x] 35. Search Insert Position
 - [x] 53. Maximum Subarray
 - [x] 121. Best Time to Buy and Sell Stock
 - [x] 152. Maximum Product Subarray
@@ -18,6 +17,11 @@
 - [x] 277. Find the Celebrity
 - [x] 238. Product of Array Except Self
 - [x] 243. Shortest Word Distance
+
+### Binary Search
+
+- [x] 35. Search Insert Position
+- [x] 278. First Bad Version
 - [x] 704. Binary Search
 
 ### Binary

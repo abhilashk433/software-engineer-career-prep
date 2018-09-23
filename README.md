@@ -2,21 +2,21 @@
 
 ## Online Presence
 
-1. [Resume](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Resume)
+1. [Resume](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/online-presence/resume)
 
 ## Job Interviews
 
-1. [Technical Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Technical%20Questions)
-2. [System Design Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/System%20Design%20Questions)
-3. [Behavioral Questions](https://github.com/LIYINGZHEN/tech-interview-handbook/tree/master/Behavioral%20Questions)
-4. [Questions To Ask](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Questions%20to%20ask)
-5. [Negotiation Tips](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Negotiation%20Tips)
-6. [Common Questions](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Common%20Questions)
+1. [Technical Questions](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/technical-questions)
+2. [System Design Questions](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/system-design-questions)
+3. [Behavioral Questions](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/behavioral-questions)
+4. [Questions To Ask](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/questions-to-ask)
+5. [Negotiation Tips](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/negotiation-tips)
+6. [Common Questions](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/common-questions)
 
 ## Finding a Job
 
-1. [Remote Job Websites](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Remote%20jobs)
-2. [Your Dream Job](https://github.com/LIYINGZHEN/microverse-career-prep/tree/master/Your%20Dream%20Job)
+1. [Remote Jobs](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/remote-jobs)
+2. [Your Dream Job](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/your-dream-job)
 
 ## Other Links
 

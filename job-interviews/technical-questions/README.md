@@ -49,3 +49,4 @@
 ### Matrix
 
 - [x] 48. Rotate Image
+- [x] 54. Spiral Matrix

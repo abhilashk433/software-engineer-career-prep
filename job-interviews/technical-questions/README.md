@@ -17,6 +17,7 @@
 - [x] 277. Find the Celebrity
 - [x] 238. Product of Array Except Self
 - [x] 243. Shortest Word Distance
+- [x] 704. Binary Search
 
 ### Binary
 

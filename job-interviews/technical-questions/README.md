@@ -19,13 +19,13 @@
 ### Binary
 
 - [x] 136. Single Number
-- [x] 137. Reverse Bits
-- [x] 138. Number of 1 Bits
-- [x] 139. Power of Two
-- [x] 140. Missing Number
-- [x] 141. Counting Bits
-- [x] 142. Sum of Two Integers
-- [x] 143. Find the Difference
+- [x] 190. Reverse Bits
+- [x] 191. Number of 1 Bits
+- [x] 231. Power of Two
+- [x] 268. Missing Number
+- [x] 338. Counting Bits
+- [x] 371. Sum of Two Integers
+- [x] 389. Find the Difference
 
 ### Interval
 
@@ -35,13 +35,13 @@
 ### Linked List
 
 - [x] 141. Linked List Cycle
-- [x] 142. Reverse Linked List
+- [x] 206. Reverse Linked List
 
 ### Math
 
+- [x] 7. Reverse Integer
+- [x] 8. String to Integer (atoi)
+- [x] 66. Plus One
+- [x] 69. Sqrt(x)
 - [x] 258. Add Digits
-- [x] 259. Valid Perfect Square
-- [x] 260. Plus One
-- [x] 261. Sqrt(x)
-- [x] 262. Reverse Integer
-- [x] 263. String to Integer (atoi)
+- [x] 367. Valid Perfect Square

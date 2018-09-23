@@ -1,0 +1,7 @@
+- [ ] 1. Write an article about how I find a remote job
+- [ ] 2. Do Software Engineer Career Prep live streaming
+- [ ] 3. Do Learn TypeScript live streaming
+- [ ] 4. Do Learn Apollo/GrapQL live streaming
+- [ ] 5. Do Learn React live streaming
+- [ ] 6. Do LeetCode Challenges live streaming
+- [ ] 7. Invite people to share experiencing.

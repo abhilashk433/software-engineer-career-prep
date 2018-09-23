@@ -5,18 +5,21 @@
  */
 
 var search = function(nums, target) {
-  if (nums.length === 0) return -1; // check empty
+  if (nums.length === 0) return false; // check empty
 
   let left = 0;
   let right = nums.length - 1;
 
   while (left <= right) {
-    const mid = Math.floor((left + right) / 2);
+    const mid = left + Math.floor((right - left) / 2);
 
-    if (nums[mid] === target) return mid;
+    if (nums[mid] === target) return true;
 
-    // left sorted
-    if (nums[left] <= nums[mid]) {
+    if (nums[left] === nums[mid] && nums[mid] === nums[right]) {
+      left++;
+      right--;
+      // left sorted
+    } else if (nums[left] <= nums[mid]) {
       if (nums[left] <= target && target < nums[mid]) {
         right = mid - 1;
       } else {
@@ -31,5 +34,5 @@ var search = function(nums, target) {
     }
   }
 
-  return -1;
+  return false;
 };

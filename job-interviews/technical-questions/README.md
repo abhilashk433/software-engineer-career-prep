@@ -49,6 +49,7 @@
 ### Tree
 
 - [x] 100. Same Tree
+- [x] 104. Maximum Depth of Binary Tree
 
 ### Math
 

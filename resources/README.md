@@ -18,6 +18,10 @@
 
 - [Kao Man Fen](http://www.kmf.com)
 
+## Time Management
+
+- [Toggl](https://toggl.com/)
+
 ## Others
 
 - [30 seconds of interviews](https://30secondsofinterviews.org)

@@ -46,6 +46,10 @@
 - [x] 141. Linked List Cycle
 - [x] 206. Reverse Linked List
 
+### Tree
+
+- [x] 100. Same Tree
+
 ### Math
 
 - [x] 7. Reverse Integer

@@ -13,7 +13,8 @@
 3. [Behavioral Questions](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/behavioral-questions)
 4. [Questions To Ask](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/questions-to-ask)
 5. [Negotiation Tips](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/negotiation-tips)
-6. [Common Questions](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/common-questions)
+6. [Mock interviews](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/mock-interviews)
+7. [Common Questions](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/job-interviews/common-questions)
 
 ### Finding a Job
 

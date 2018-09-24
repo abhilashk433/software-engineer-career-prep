@@ -50,6 +50,7 @@
 
 - [x] 100. Same Tree
 - [x] 104. Maximum Depth of Binary Tree
+- [x] 226. Invert Binary Tree
 
 ### Math
 

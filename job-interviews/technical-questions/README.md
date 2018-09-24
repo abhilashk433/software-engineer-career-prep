@@ -53,6 +53,7 @@
 - [x] 102. Binary Tree Level Order Traversal
 - [x] 104. Maximum Depth of Binary Tree
 - [x] 226. Invert Binary Tree
+- [x] 235. Lowest Common Ancestor of a Binary Search Tree
 
 ### Math
 

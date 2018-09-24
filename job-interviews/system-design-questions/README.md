@@ -9,6 +9,8 @@
 5. Edge Cases
 6. Tradeoffs
 
-## Mentorship
+### How would you design a Recommendation System?
 
-- [Success in Tech](https://www.successintech.com/)
+### How would you design a URL Shortener?
+
+### How would you design a Cache System?

@@ -1,5 +1,9 @@
 <h1 align="center">Resources</h1>
 
+## System Desgin
+
+- [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+
 ## Program (Free until you find a job)
 
 - [Microverse](https://www.microverse.org)
@@ -28,5 +32,6 @@
 
 ## Others
 
+- [Gainlo](http://www.gainlo.co)
 - [30 seconds of interviews](https://30secondsofinterviews.org)
 - [CodeSpaghetti](http://www.codespaghetti.com)

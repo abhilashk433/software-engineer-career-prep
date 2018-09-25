@@ -1,5 +1,17 @@
 ## JS Questions
 
+### Explain how this works in JavaScript
+
+1. object method invocation
+2. global invocation
+3. bind
+4. apply, call
+5. arrow function
+
+### What is a “closure” in JavaScript? Provide an example.
+
+Inner function can access to its parent scope variable even when the parent function has been returned.
+
 ### What's the difference between .call and .apply?
 
 - `call` and comma-separated
@@ -84,6 +96,20 @@ const bind = (this: context, ...args): function => {}
 ### What are the differences between variables created using let, var or const?
 
 - let and const are block scoped
+
+### How do you clone an object?
+
+```
+Object.assign()
+```
+
+### Explain the difference between mutable and immutable objects.
+
+### Difference between: function Person(){}, var person = Person(), and var person = new Person()?
+
+1. function
+2. invoke function
+3. creates an instance of the Person object
 
 ###### References
 

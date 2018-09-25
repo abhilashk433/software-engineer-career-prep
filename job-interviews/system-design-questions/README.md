@@ -21,6 +21,10 @@ http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/
 - Parse the content (usually HTML) and extract potential URLs that we want to crawl.
 - Add new URLs to the pool and keep crawling.
 
+### How would you design a Photo Sharing App?
+
+### How would you design a Hit Counter?
+
 ###### References
 
 - https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/web_crawler

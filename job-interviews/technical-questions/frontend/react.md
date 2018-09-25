@@ -87,6 +87,10 @@ In React, events are the triggered reactions to specific actions like mouse hove
 
 States are in the ecah component. They are accessed via `this.state`.
 
+### What is Redux?
+
+t is a predictable state container for JavaScript applications and is used for the entire applications state management. Applications developed with Redux are easy to test and can run in different environments showing consistent behavior.
+
 ###### References
 
 - https://www.edureka.co/blog/interview-questions/react-interview-questions/

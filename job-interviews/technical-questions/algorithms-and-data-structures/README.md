@@ -47,3 +47,14 @@ push(x) // x is the element to be pushed and s is stack
 pop()
 
 1. Dequeue an item from q1 and return it.
+
+### Which Data Structure Should be used for implementiong LRU cache?
+
+We use two data structures to implement an LRU Cache.
+
+- Queue which is implemented using a doubly linked list. The maximum size of the queue will be equal to the total number of frames available (cache size).The most recently used pages will be near front end and least recently pages will be near rear end.
+- A Hash with page number as key and address of the corresponding queue node as value.
+
+###### References
+
+- https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/css-questions.md

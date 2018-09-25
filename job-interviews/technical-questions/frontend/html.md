@@ -50,6 +50,12 @@ sessionStorage:
 - The data is available only inside the window/tab in which it was set.
 - The data is not persistent i.e. it will be lost once the window/tab is closed. Like localStorage, it works on same-origin policy. So, data stored will only be available on the same origin
 
+### What is progressive rendering?
+
+Lazy loading of images
+
+Async HTML fragments - Flushing parts of the HTML to the browser as the page is constructed on the back end.
+
 ###### References
 
 - https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/html-questions.md

@@ -1,5 +1,32 @@
 ## React Questions
 
+### Which feature can we use to cause a component to render only when its ID changes?
+
+```
+shouldComponentUpdate
+```
+
+### What is JSX?
+
+JSX allows us to put HTML into JavaScript.
+
+### Explain the role of Reducer.
+
+```
+action -> reducer (pure function) -> new state -> stroe
+```
+
+[[↑] Back to top](#react-questions)
+
+### What are the limitations of React?
+
+1. React is just a library, not a full-blown framework
+2. Its library is very large and takes time to understand
+3. It can be little difficult for the novice programmers to understand
+4. Coding gets complex as it uses inline templating and JSX
+
+[[↑] Back to top](#react-questions)
+
 ### What are pure functional Components?
 
 If we have no intention for a Component to need state, or to need lifecycle methods, we can actually write Components with a pure function, hence the term “pure functional Component”:
@@ -27,15 +54,6 @@ function Date(props){
 
 [[↑] Back to top](#react-questions)
 
-### What are the limitations of React?
-
-1. React is just a library, not a full-blown framework
-2. Its library is very large and takes time to understand
-3. It can be little difficult for the novice programmers to understand
-4. Coding gets complex as it uses inline templating and JSX
-
-[[↑] Back to top](#react-questions)
-
 ### Explain the purpose of render() in React.
 
 Each React component must have a render() function. It returns a single React element which is the representation of the native DOM component.
@@ -51,14 +69,6 @@ Components are the building blocks of a React application’s UI. These componen
 ### What is the significance of Store in Redux?
 
 A store is a JavaScript object which can hold the application’s state and provide a few helper methods to access the state, dispatch actions and register listeners.
-
-[[↑] Back to top](#react-questions)
-
-### Explain the role of Reducer.
-
-```
-action -> reducer (pure function) -> new state -> stroe
-```
 
 [[↑] Back to top](#react-questions)
 

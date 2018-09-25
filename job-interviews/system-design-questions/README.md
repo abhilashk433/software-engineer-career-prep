@@ -23,7 +23,17 @@ http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/
 
 ### How would you design a Photo Sharing App?
 
+To scale architecture, the rule of thumb is that service-oriented architecture beats monolithic application.
+
 ### How would you design a Hit Counter?
+
+We can use a queue or linked list to store only users from the past minute. We keep all the element in order and when the last user (the earliest user) has the time more than a minute, just remove it from the list and update the length.
+
+The most common solution is to use a lock to protect the list. Whenever someone wants to update the list (by either adding new elements or removing the tail), a lock will be placed on the container. After the operation finishes, the list will be unlocked.
+
+### How would you design a Key Value Store?
+
+### How would you design a Collaborative Editor?
 
 ###### References
 

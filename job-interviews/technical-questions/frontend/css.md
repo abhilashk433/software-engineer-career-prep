@@ -1,4 +1,35 @@
-# CSS
+# CSS Questions
+
+### What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+
+- Resetting - Resetting is meant to strip all default browser styling on elements. For e.g. margins, paddings, font-sizes of all elements are reset to be the same.
+- Normalizing - Normalizing preserves useful default styles rather than "unstyling" everything. It also corrects bugs for common browser dependencies.
+
+I will choose normalizing because it can handle most cases.
+
+### Have you ever used a grid system, and if so, what do you prefer?
+
+Yes, and I like the grid system because it can easily moving elements to the position I want.
+
+### What are the advantages/disadvantages of using CSS preprocessors?
+
+Advantages:
+
+- CSS is made more maintainable.
+- Easy to write nested selectors.
+- Variables for consistent theming. Can share theme files across different projects.
+- Mixins to generate repeated CSS.
+- Splitting your code into multiple files. CSS files can be split up too but doing so will require an HTTP request to download each CSS file.
+
+Disadvantages:
+
+- Requires tools for preprocessing. Re-compilation time can be slow.
+
+### How would you approach fixing browser-specific styling issues?
+
+- Use libraries like Bootstrap that already handles these styling issues for you.
+- Use autoprefixer to automatically add vendor prefixes to your code.
+- Use Reset CSS or Normalize.css.
 
 ### What is the CSS display property and can you give a few examples of its use?
 
@@ -62,27 +93,6 @@ A positioned element is an element whose computed position property is either re
 - fixed - The element is removed from the flow of the page and positioned at a specified position relative to the viewport and doesn't move when scrolled.
 - sticky - Sticky positioning is a hybrid of relative and fixed positioning. The element is treated as relative positioned until it crosses a specified threshold, at which point it is treated as fixed positioned.
 
-### What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
-
-- Resetting - Resetting is meant to strip all default browser styling on elements. For e.g. margins, paddings, font-sizes of all elements are reset to be the same. You will have to redeclare styling for common typographic elements.
-- Normalizing - Normalizing preserves useful default styles rather than "unstyling" everything. It also corrects bugs for common browser dependencies.
-
-I would choose resetting when I have a very customized or unconventional site design such that I need to do a lot of my own styling and do not need any default styling to be preserved.
-
-### What are the advantages/disadvantages of using CSS preprocessors?
-
-Advantages:
-
-- CSS is made more maintainable.
-- Easy to write nested selectors.
-- Variables for consistent theming. Can share theme files across different projects.
-- Mixins to generate repeated CSS.
-- Splitting your code into multiple files. CSS files can be split up too but doing so will require an HTTP request to download each CSS file.
-
-Disadvantages:
-
-- Requires tools for preprocessing. Re-compilation time can be slow.
-
 ### What are the different ways to visually hide content (and make it available only for screen readers)?
 
 - `width: 0; height: 0.` Make the element not take up any space on the screen at all, resulting in not showing it.
@@ -96,16 +106,6 @@ Like:
 
 1. `:first-line` and `:first-letter` can be used to decorate text.
 2. Triangular arrows in tooltips use `:before` and `:after`.
-
-### How would you approach fixing browser-specific styling issues?
-
-- Use libraries like Bootstrap that already handles these styling issues for you.
-- Use autoprefixer to automatically add vendor prefixes to your code.
-- Use Reset CSS or Normalize.css.
-
-### Have you ever used a grid system, and if so, what do you prefer?
-
-Yes, and I like the grid system because it can easily moving elements to the position I want.
 
 ### What are the various clearing techniques and which is appropriate for what context?
 

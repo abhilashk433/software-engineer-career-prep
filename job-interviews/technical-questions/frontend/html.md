@@ -1,5 +1,11 @@
 # HTML
 
+### Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before </body>? Do you know any exceptions?
+
+Placing at the top allows the page to render progressively which improves the user experience
+
+<script>s block HTML parsing while they are being downloaded and executed. Downloading the scripts at the bottom will allow the HTML to be parsed and displayed to the user first.
+
 ### Describe the difference between <script>, <script async> and <script defer>.
 
 ```

@@ -4,4 +4,5 @@
 - [ ] 4. Do Learn Apollo/GrapQL live streaming
 - [ ] 5. Do Learn React live streaming
 - [ ] 6. Do LeetCode Challenges live streaming
-- [ ] 7. Invite people to share experiencing.
+- [ ] 7. Update LinkedIn Profile.
+- [ ] 8. Invite people to share experiencing.

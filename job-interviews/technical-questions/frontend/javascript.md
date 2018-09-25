@@ -1,5 +1,42 @@
 ## JS Questions
 
+### Explain what a single page app is and how to make one SEO-friendly.
+
+In modern SPAs, client-side rendering is used instead. The browser loads the initial page from the server, along with the scripts (frameworks, libraries, app code) and stylesheets required for the whole app. When the user navigates to other pages, a page refresh is not triggered. The SPA then dynamically updates the page with the data via JavaScript, which it has already downloaded in the initial page load. This model is similar to how native mobile apps work.
+
+The benefits:
+
+- The app feels more responsive and users do not see the flash between page navigations due to full-page refreshes.
+- Fewer HTTP requests are made to the server, as the same assets do not have to be downloaded again for each page load.
+- Clear separation of the concerns between the client and the server; you can easily build new clients for different platforms (e.g. mobile, chatbots, smart watches) without having to modify the server code. You can also modify the technology stack on the client and server independently, as long as the API contract is not broken.
+
+The downsides:
+
+- Heavier initial page load due to the loading of framework, app code, and assets required for multiple pages.
+- There's an additional step to be done on your server which is to configure it to route all requests to a single entry point and allow client-side routing to take over from there.
+- SPAs are reliant on JavaScript to render content, but not all search engines execute JavaScript during crawling, and they may see empty content on your page. This inadvertently hurts the Search Engine Optimization (SEO) of your app.
+
+### What tools and techniques do you use debugging JavaScript code?
+
+React and Redux
+
+- React Devtools
+- Redux Devtools
+
+JavaScript
+
+- Chrome Devtools
+- Good old console.log debugging
+
+### ### What is the definition of a higher-order function?
+
+A higher-order function is any function that takes one or more functions as arguments, which it uses to operate on some data, and/or returns a function as a result
+
+### Explain the difference between mutable and immutable objects.
+
+Mutable object – You can change the states and fields after the object is created.
+Immutable object – You cannot change anything after the object is created.
+
 ### Explain how this works in JavaScript
 
 1. object method invocation
@@ -33,22 +70,6 @@ console.log(add.apply(null, [1, 2])); // 3
 When writing HTML source code, you can define attributes on your HTML elements. Then, once the browser parses your code, a corresponding DOM node will be created. This node is an object, and therefore it has properties.
 
 [[↑] Back to top](#js-questions)
-
-### Explain what a single page app is and how to make one SEO-friendly.
-
-In modern SPAs, client-side rendering is used instead. The browser loads the initial page from the server, along with the scripts (frameworks, libraries, app code) and stylesheets required for the whole app. When the user navigates to other pages, a page refresh is not triggered. The URL of the page is updated via the [HTML5 History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API). New data required for the new page, usually in JSON format, is retrieved by the browser via [AJAX](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started) requests to the server. The SPA then dynamically updates the page with the data via JavaScript, which it has already downloaded in the initial page load. This model is similar to how native mobile apps work.
-
-The benefits:
-
-- The app feels more responsive and users do not see the flash between page navigations due to full-page refreshes.
-- Fewer HTTP requests are made to the server, as the same assets do not have to be downloaded again for each page load.
-- Clear separation of the concerns between the client and the server; you can easily build new clients for different platforms (e.g. mobile, chatbots, smart watches) without having to modify the server code. You can also modify the technology stack on the client and server independently, as long as the API contract is not broken.
-
-The downsides:
-
-- Heavier initial page load due to the loading of framework, app code, and assets required for multiple pages.
-- There's an additional step to be done on your server which is to configure it to route all requests to a single entry point and allow client-side routing to take over from there.
-- SPAs are reliant on JavaScript to render content, but not all search engines execute JavaScript during crawling, and they may see empty content on your page. This inadvertently hurts the Search Engine Optimization (SEO) of your app.
 
 ### How do you check if an object is an array or not?
 
@@ -102,8 +123,6 @@ const bind = (this: context, ...args): function => {}
 ```
 Object.assign()
 ```
-
-### Explain the difference between mutable and immutable objects.
 
 ### Difference between: function Person(){}, var person = Person(), and var person = new Person()?
 

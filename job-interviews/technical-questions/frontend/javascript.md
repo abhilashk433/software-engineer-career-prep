@@ -1,8 +1,9 @@
 ## JS Questions
 
-### What's the difference between `.call` and `.apply`?
+### What's the difference between .call and .apply?
 
-Both `.call` and `.apply` are used to invoke functions and the first parameter will be used as the value of `this` within the function. However, `.call` takes in comma-separated arguments as the next arguments while `.apply` takes in an array of arguments as the next argument. An easy way to remember this is C for `call` and comma-separated and A for `apply` and an array of arguments.
+- `call` and comma-separated
+- `apply` and an array of arguments.
 
 ```js
 function add(a, b) {
@@ -63,3 +64,27 @@ I use React/Redux which utilize a single-directional data flow based on Flux arc
 ### Can you describe the main difference between a .forEach loop and a .map() loop and why you would pick one versus the other?
 
 The main difference between `.forEach` and `.map()` is that `.map()` returns a new array.
+
+### Explain Function.prototype.bind.
+
+```ts
+const bind = (this: context, ...args): function => {}
+```
+
+### What's a typical use case for anonymous functions?
+
+- Callback Function
+- Immediately-invoked function expression
+
+### What is the difference between undefined and not defined in JavaScript?
+
+- not defined: variable doesn't exist
+- undefined: variable existed but not assign any value
+
+### What are the differences between variables created using let, var or const?
+
+- let and const are block scoped
+
+###### References
+
+- https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md#why-is-it-in-general-a-good-idea-to-leave-the-global-scope-of-a-website-as-is-and-never-touch-it

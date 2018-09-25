@@ -13,3 +13,14 @@ When resource A is requested, we check the hash table to see if A exists in the 
 http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/
 
 ### How would you design a Recommendation System?
+
+### How would you design a Web Crawler?
+
+- Start with a URL pool that contains all the websites we want to crawl.
+- For each URL, issue a HTTP GET request to fetch the web page content.
+- Parse the content (usually HTML) and extract potential URLs that we want to crawl.
+- Add new URLs to the pool and keep crawling.
+
+###### References
+
+- https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/web_crawler

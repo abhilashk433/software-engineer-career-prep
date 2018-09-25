@@ -38,7 +38,7 @@ function Date(props){
 
 ### Explain the purpose of render() in React.
 
-Each React component must have a render() mandatorily. It returns a single React element which is the representation of the native DOM component.
+Each React component must have a render() function. It returns a single React element which is the representation of the native DOM component.
 
 [[↑] Back to top](#react-questions)
 
@@ -56,6 +56,38 @@ A store is a JavaScript object which can hold the application’s state and prov
 
 ### Explain the role of Reducer.
 
-Reducers are pure functions which specify how the application’s state changes in response to an ACTION. Reducers work by taking in the previous state and action, and then it returns a new state.
+```
+action -> reducer (pure function) -> new state -> stroe
+```
 
 [[↑] Back to top](#react-questions)
+
+### What is an event in React?
+
+```
+action -> reducer (pure function) -> new state -> stroe
+```
+
+[[↑] Back to top](#react-questions)
+
+### What is an event in React?
+
+In React, events are the triggered reactions to specific actions like mouse hover, mouse click, key press, etc. Handling these events are similar to handling events in DOM elements. But there are some syntactical differences like:
+
+- Events are named using camel case instead of just using the lowercase.
+- Events are passed as functions instead of strings.
+
+### What were the major problems with MVC framework?
+
+- DOM manipulation was very expensive
+- There was huge memory wastage
+- Because of circular dependencies, a complicated model was created around models and views
+
+### What is a state in React and how is it used?
+
+States are in the ecah component. They are accessed via `this.state`.
+
+###### References
+
+- https://www.edureka.co/blog/interview-questions/react-interview-questions/
+- https://www.toptal.com/react/interview-questions

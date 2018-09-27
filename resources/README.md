@@ -35,8 +35,13 @@
 
 - [Success in Tech](https://www.successintech.com/)
 
+## JavaScript
+
+- [JScomplete](https://jscomplete.com)
+
 ## Others
 
 - [Gainlo](http://www.gainlo.co)
 - [30 seconds of interviews](https://30secondsofinterviews.org)
 - [CodeSpaghetti](http://www.codespaghetti.com)
+- [Remotive Bootcamp](https://learn.remotive.io/)

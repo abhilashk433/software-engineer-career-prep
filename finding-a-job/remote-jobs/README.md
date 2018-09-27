@@ -5,6 +5,8 @@
 - [ ] 3. Allows you to work in English
 - [ ] 4. Pays more than $2,000/month. I think you should aim for $2,200-$2,400 at least then.
 
+## [3 Mistakes to Avoid When Looking For A Remote Startup Job](https://docs.google.com/document/d/1MA3WmHQFpIaHd6AbIcJCJybwR64U-9rtpX8TxD6yqRI/edit?usp=sharing)
+
 ## Remote Job Websites
 
 1. https://remoteok.io/

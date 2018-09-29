@@ -12,8 +12,8 @@
 
 ## Program (Free until you find a job)
 
-- [Microverse](https://www.microverse.org)
 - [LambdaSchool](https://lambdaschool.com)
+- [x] [Microverse](https://www.microverse.org)
 
 ## Bootcamp
 
@@ -28,18 +28,18 @@
 
 - [Kao Man Fen](http://www.kmf.com)
 
-## Time Management
-
-- [Toggl](https://toggl.com/)
-
 ## Mentorship
 
 - [Success in Tech](https://www.successintech.com/)
 
 ## JavaScript
 
-- [JScomplete](https://jscomplete.com)
 - [Node University](https://node.university/)
+- [x] [JScomplete](https://jscomplete.com)
+
+## Time Management
+
+- [Toggl](https://toggl.com/)
 
 ## Others
 

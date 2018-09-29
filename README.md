@@ -21,6 +21,10 @@
 1. [Remote Jobs](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/remote-jobs)
 2. [Your Dream Job](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/your-dream-job)
 
+### Schedule
+
+1. [Daily Schedule](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/daily-schedule)
+
 ## Resources
 
 1. [Resources](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/resources)
